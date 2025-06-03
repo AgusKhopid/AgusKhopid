@@ -1,12 +1,12 @@
-<img src="https://your-custom-banner-link.com/banner.png" alt="aguskhopid - No-Code Developer" />
+<img src="https://github.com/AgusKhopid/AgusKhopid/blob/main/1739848410755.jpeg" alt="aguskhopid - No-Code Developer" />
 
 <h1 align="center">Hi 👋, I'm Agus Khopid</h1>
 <h3 align="center">I build MVPs and Web Apps using No-Code & Low-Code Tools 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/aguskhopid/">LinkedIn</a> •
+  <a href="mailto:aguskhopid2@gmail.com">Email</a> •
+  <a href="https://www.upwork.com/freelancers/~017e02fce5abb1ac0a">Portfolio</a>
 </p>
 
 ---
